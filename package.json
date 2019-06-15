@@ -1,0 +1,22 @@
+{
+  "name": "tsc-dynamic-type-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auth-response.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertIsaac/tsc-dynamic-type-issue.git"
+  },
+  "author": "Robert Isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertIsaac/tsc-dynamic-type-issue/issues"
+  },
+  "homepage": "https://github.com/robertIsaac/tsc-dynamic-type-issue#readme",
+  "dependencies": {
+    "typescript": "^3.5.2"
+  }
+}
