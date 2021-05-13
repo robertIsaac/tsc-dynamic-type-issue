@@ -1,4 +1,4 @@
-type AuthResponse = SuccessResponse | FailResponse;
+export type AuthResponse = SuccessResponse | FailResponse;
 
 interface SuccessResponse {
     success: true;

@@ -1,3 +1,6 @@
+import { AuthResponse } from "./auth-response";
+import { InsertResponse } from "./insert-response";
+
 class UserApi {
     insertUser(username: string, password: string): InsertResponse {
         return {
